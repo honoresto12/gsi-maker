@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: http://bigota.d.miui.com/V12.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
-  ROM_NAME: Flyme
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: MIUI
