@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://otafsg.realmemobile.com/patch/amazone2/INT/RMX1971EX/RMX1971EX_11.A.09_0090_201909090928/RMX1971EX_11_OTA_0090_all_4F5gGMKyPMbM_7341a.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: ColorOS
 jobs:
   build:
     runs-on: ubuntu-latest
