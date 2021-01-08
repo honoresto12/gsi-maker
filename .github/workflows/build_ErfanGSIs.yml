@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.10.0.QCDMIXM/miui_DANDELIONGlobal_V12.0.10.0.QCDMIXM_3c3d41a6a5_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://downloads.sourceforge.net/project/projectsakura/violet/ProjectSakura-4.R-GAPPS-20201229-1133-violet-OFFICIAL.zip?r=https%3A%2F%2Fprojectsakura.xyz%2F&ts=1610146376&use_mirror=liquidtelecom
+  ROM_NAME: PROJECTSAKURA
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: PROJECTSAKURA
 jobs:
   build:
     runs-on: ubuntu-latest
