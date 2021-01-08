@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg.realmemobile.com/patch/amazone2/INT/RMX1971EX/RMX1971EX_11.A.09_0090_201909090928/RMX1971EX_11_OTA_0090_all_4F5gGMKyPMbM_7341a.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc2MDgyNzMiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImI5YjZlNjIxOGZiMjMzNGEwMDQwZjE4YjU4M2VmY2NlZmEzY2ZiZGYzODhmZjI0ODliYzRhNzIxODJhMzk0OTQwMGViMWY0M2YzZWM0NDMwZGZhYmYzODY5MzlkMjMwNTU5ZjgwZGM2MjU4ZjA4MjFlMjA4OGMwNTRiNTBiNTI3IiwidCI6MTYxMDEyODc5OCwic3RmcCI6IiIsInN0aXAiOm51bGx9.i0b_sYF3FBUx4VgpPgwGP3xEBFuJRNVebHaACzerGPs/dotOS-R-v5.0.0-whyred-AURORA-EDITION-20201210-1113.zip
+  ROM_NAME: dotOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: ColorOS
+  ZIP_NAME: dotOS
 jobs:
   build:
     runs-on: ubuntu-latest
