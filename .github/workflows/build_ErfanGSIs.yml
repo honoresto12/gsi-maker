@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://files.spkal01.tech/Aicp/latest/aicp_davinci_r-16.1-UNOFFICIAL-20210108.zip
-  ROM_NAME: Aicp
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16T/8.1.5.0/cn/20200911100617/847d887d/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Aicp
+  ZIP_NAME: Flyme
 jobs:
   build:
     runs-on: ubuntu-latest
