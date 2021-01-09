@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc2MDgyNzMiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImI5YjZlNjIxOGZiMjMzNGEwMDQwZjE4YjU4M2VmY2NlZmEzY2ZiZGYzODhmZjI0ODliYzRhNzIxODJhMzk0OTQwMGViMWY0M2YzZWM0NDMwZGZhYmYzODY5MzlkMjMwNTU5ZjgwZGM2MjU4ZjA4MjFlMjA4OGMwNTRiNTBiNTI3IiwidCI6MTYxMDEyODc5OCwic3RmcCI6IiIsInN0aXAiOm51bGx9.i0b_sYF3FBUx4VgpPgwGP3xEBFuJRNVebHaACzerGPs/dotOS-R-v5.0.0-whyred-AURORA-EDITION-20201210-1113.zip
-  ROM_NAME: dotOS
+  ROM_URL: https://dwnld.aicp-rom.com/device/whyred/WEEKLY/aicp_whyred_q-15.0-WEEKLY-20210107.zip
+  ROM_NAME: Aicp
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: dotOS
+  ZIP_NAME: Aicp
 jobs:
   build:
     runs-on: ubuntu-latest
