@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=tYph&id=13eUmYj5tn-jfMGxzWJqI2UYKmSpBWTsZ
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=SZ-h&id=13eUmYj5tn-jfMGxzWJqI2UYKmSpBWTsZ
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
