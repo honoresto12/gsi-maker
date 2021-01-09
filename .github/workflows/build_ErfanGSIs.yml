@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=SZ-h&id=13eUmYj5tn-jfMGxzWJqI2UYKmSpBWTsZ
-  ROM_NAME: Generic
+  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/da43b41f88ac32d25dfa82a581746acd90739864.zip
+  ROM_NAME: VOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Generic
+  ZIP_NAME: VOS
 jobs:
   build:
     runs-on: ubuntu-latest
