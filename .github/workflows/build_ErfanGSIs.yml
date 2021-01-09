@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.10.0.QCDMIXM/miui_DANDELIONGlobal_V12.0.10.0.QCDMIXM_3c3d41a6a5_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://downloads.sourceforge.net/project/team-reloaded/beryllium/ReloadedOS-R/Reloaded-11-UNOFFICIAL-20200916-beryllium.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fteam-reloaded%2Ffiles%2Fberyllium%2FReloadedOS-R%2F&ts=1610155245&use_mirror=liquidtelecom
+  ROM_NAME: reloaded
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: reloaded
 jobs:
   build:
     runs-on: ubuntu-latest
