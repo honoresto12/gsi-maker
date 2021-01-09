@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16T/8.1.5.0/cn/20200911100617/847d887d/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://dwnld.aicp-rom.com/device/whyred/WEEKLY/aicp_whyred_q-15.0-WEEKLY-20210107.zip
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Flyme
+  ZIP_NAME: Generic
 jobs:
   build:
     runs-on: ubuntu-latest
