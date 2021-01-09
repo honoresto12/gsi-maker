@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDc2MDgyNzMiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImU5N2RlMmYxMzhlMjllY2ZjZGI3ZmFiNTY4YmE1MmU0M2YzNzFiODE3ZDUyMzFhNGJkNDZmZDFkZTYzYjQwMGJiZGRiZDQyYTI0YWM5Yzk4ZGUxOTE3YTIzYjI1MTRiYjBjZmY3ZjQzN2FjOTE1ZmJkNzM4MDVmNGVlNDYzNjdlIiwidCI6MTYxMDE5NTI5MSwic3RmcCI6IiIsInN0aXAiOm51bGx9._2Da3JLwj-q-Lyj5NWUDwIJ4SgaDM-pepf-CWyoUcK4/dotOS-R-v5.0.0-whyred-AURORA-EDITION-20201210-1113.zip
-  ROM_NAME: Generic
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=tYph&id=13eUmYj5tn-jfMGxzWJqI2UYKmSpBWTsZ
+  ROM_NAME: VOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Generic
+  ZIP_NAME: VOS
 jobs:
   build:
     runs-on: ubuntu-latest
