@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fwhyred%2FRevengeOS-4.0-R-OFFICIAL-whyred-20201202-1618.zip
-  ROM_NAME: Generic
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=0JIT&id=1uJin8ZexLqJMS9rFI68LwXM8hVlWFpb2
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Generic
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
