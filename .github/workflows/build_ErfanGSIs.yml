@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fginkgo%2FRevengeOS-4.0-R-OFFICIAL-ginkgo-20210103-0957.zip
-  ROM_NAME: Revenger
+  ROM_URL: http://bigota.d.miui.com/V12.0.3.0.QCOMIXM/miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Revenger
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
