@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.12.25/miui_LAVENDER_20.12.25_af0250256e_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Flavender%2FRevengeOS-4.0-R-OFFICIAL-lavender-20210109-0107.zip
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: revengeros
 jobs:
   build:
     runs-on: ubuntu-latest
