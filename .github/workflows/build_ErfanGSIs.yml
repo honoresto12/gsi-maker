@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Flavender%2FRevengeOS-4.0-R-OFFICIAL-lavender-20210109-0107.zip
-  ROM_NAME: Generic
+  ROM_NAME: Generic:RevengeOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: revengeros
+  ZIP_NAME: RevengeOS4-0_R
 jobs:
   build:
     runs-on: ubuntu-latest
