@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/davinci/Xtended-XR-v4.0-davinci-OFFICIAL-20210112.zip
+  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fdavinci%2FRevengeOS-4.0-R-OFFICIAL-davinci-20201223-0354.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Generic
+  ZIP_NAME: Revenger
 jobs:
   build:
     runs-on: ubuntu-latest
