@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/ancientrom/RMX1921/AncientOS-R-Society-v5.0-RMX1921-Iron-20210110-1934-Vanilla.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fancientrom%2Ffiles%2FRMX1921%2F&ts=1610476377&use_mirror=liquidtelecom
+  ROM_URL: https://downloads.msmxtended.org/davinci/Xtended-XR-v4.0-davinci-OFFICIAL-20210112.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
