@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.3.0.QCOMIXM/miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://downloads.sourceforge.net/project/ancientrom/RMX1921/AncientOS-R-Society-v5.0-RMX1921-Iron-20210110-1934-Vanilla.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fancientrom%2Ffiles%2FRMX1921%2F&ts=1610476377&use_mirror=liquidtelecom
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: Ancient
 jobs:
   build:
     runs-on: ubuntu-latest
