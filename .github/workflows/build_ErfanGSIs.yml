@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.octavi-os.com/Whyred/OctaviOS-v1.5-whyred-20210110-1639-VANILLA-Official.zip
+  ROM_URL: https://downloads.sourceforge.net/project/legionrom/whyred/LegionOS-v3.4-whyred-20201229-0633-OFFICIAL-Vanilla.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flegionrom%2Ffiles%2Fwhyred%2F&ts=1610628973&use_mirror=kumisystems
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
