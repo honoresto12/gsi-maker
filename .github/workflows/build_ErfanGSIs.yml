@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/legionrom/whyred/LegionOS-v3.4-whyred-20201229-0633-OFFICIAL-Vanilla.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flegionrom%2Ffiles%2Fwhyred%2F&ts=1610628973&use_mirror=kumisystems
+  ROM_URL: https://downloads.sourceforge.net/project/ancientrom/ginkgo/AncientOS-R-Society-v5.0-ginkgo-Iron-20201230-1003-Vanilla.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fancientrom%2Ffiles%2Fginkgo%2F&ts=1610633189&use_mirror=deac-ams
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
