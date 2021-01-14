@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2FRMX1901%2FRevengeOS-4.0-R-OFFICIAL-RMX1901-20201010-0800.zip
+  ROM_URL: https://downloads.octavi-os.com/Whyred/OctaviOS-v1.5-whyred-20210110-1639-VANILLA-Official.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
