@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QCMINXM/miui_PINEINGlobal_V12.0.1.0.QCMINXM_a416304125_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=kG7Z&id=1g3v4JdbhIjq_UU5Bs4_hYmGhm_0ku0hU
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: Generic
 jobs:
   build:
     runs-on: ubuntu-latest
