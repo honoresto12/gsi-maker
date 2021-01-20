@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=qlwS&id=1gr-F07_3l--kTBcVfpCSWUlYAqa_80RT
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=6Q7B&id=1gr-F07_3l--kTBcVfpCSWUlYAqa_80RT
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
